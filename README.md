@@ -8,8 +8,8 @@ Reasoning system based on Clingo.
 - Clingo - 5.4.0
 
 ## Folders
-- ./clingo/ - Contrains clingoWindows.exe and clingoLinux and format-output13042022_2.exe and format-output13042022_4.bin files. And format-output13042022.cc source code.
-- ./lp/ - Contrains:
+- [./clingo/](https://github.com/MorphSeur/ECParser/tree/master/clingo) - Contrains [clingoWindows.exe] and [clingoLinux] and [format-output13042022_2.exe] and [format-output13042022_4.bin] files. And [format-output13042022.cc] source code.
+- [./lp/](https://github.com/MorphSeur/ECParser/tree/master/lp) - Contrains:
     -- activities.lp - affordances.  
     -- events.lp - happens.  
     -- sorts.lp - locations and objects of interests coming from low-level layer.  
@@ -17,7 +17,7 @@ Reasoning system based on Clingo.
     -- ecasp88888.lp - context predicates linking the affordances.  
     -- decOrigin2.lp - Discrete Event Calculus Axiomatization.  
     
-- ./inference/ - contains the inference in file ecasp88.txt in line 15.  
+- [./inference/](https://github.com/MorphSeur/ECParser/tree/master/inference) - contains the inference in file ecasp88.txt in line 15.  
 
 - parserEC.ipynb - is the parser.  
 
