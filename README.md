@@ -1,4 +1,4 @@
-# EC-based Reasoning System
+# Online EC for Stream Reasoning
 Reasoning system based on Clingo.
 
 ## System
@@ -8,7 +8,7 @@ Reasoning system based on Clingo.
 - Clingo - 5.4.0
 
 ## Folders
-- [./clingo/](https://github.com/MorphSeur/OnlineECParser/tree/master/clingo) - Contrains [clingoWindows.exe]() and [clingoLinux]() and [format-output13042022_2.exe]() and [format-output13042022_4.bin]() files. And [format-output13042022.cc] source code.
+- [./clingo/](https://github.com/MorphSeur/OnlineECParser/tree/master/clingo) - Contrains [clingoWindows.exe](https://github.com/MorphSeur/OnlineECParser/tree/master/clingo) and [clingoLinux](https://github.com/MorphSeur/OnlineECParser/tree/master/clingo) and [format-output13042022_2.exe](https://github.com/MorphSeur/OnlineECParser/tree/master/clingo) and [format-output13042022_4.bin](https://github.com/MorphSeur/OnlineECParser/tree/master/clingo) files. And [format-output13042022.cc](https://github.com/MorphSeur/OnlineECParser/tree/master/clingo) source code.
 - [./lp/](https://github.com/MorphSeur/OnlineECParser/tree/master/lp) - Contrains:
     -- activities.lp - affordances.  
     -- events.lp - happens.  
